@@ -41,3 +41,59 @@ This repository contains the following files and directories:
 # Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
+
+# meta tags
+
+1. Title and Description: Define the title and description of your webpage.
+
+   - <meta property="og:title" content="Your Page Title" />
+   - <meta property="og:description" content="Description of your webpage" />
+
+2. URL: Specify the canonical URL of your webpage.
+
+   - <meta property="og:url" content="https://www.yourwebsite.com/page-url" />
+
+3. Site Name: Specify the name of your website.
+
+   - <meta property="og:site_name" content="Your Website Name" />
+
+4. Type: Specify the type of content (e.g., website, article, video).
+
+   - <meta property="og:type" content="website" />
+
+5. Locale: Specify the locale of the content.
+
+   - <meta property="og:locale" content="en_US" />
+
+6. Images: Specify one or more images to be used when sharing.
+
+   - <meta property="og:image" content="image-url.jpg" />
+   - <meta property="og:image:width" content="1200" />
+   - <meta property="og:image:height" content="630" />
+
+7. Video: If your webpage contains video content, you can specify video-related metadata.
+
+   - <meta property="og:video" content="video-url.mp4" />
+   - <meta property="og:video:width" content="1280" />
+   - <meta property="og:video:height" content="720" />
+
+8. Article-specific Tags: If your webpage represents an article, you can include additional article-related metadata.
+
+   - <meta property="article:published_time" content="YYYY-MM-DDTHH:MM:SSZ" />
+   - <meta property="article:author" content="Author Name" />
+
+## linked in
+
+- To optimize sharing for LinkedIn, you can include specific Open Graph meta tags in your HTML <head> section. Here's how you can do it:
+
+- <meta property="og:title" content="Your Page Title" />
+- <meta property="og:description" content="Description of your webpage" />
+- <meta property="og:url" content="https://www.yourwebsite.com/page-url" />
+- <meta property="og:image" content="image-url.jpg" />
+- <meta property="og:image:width" content="1200" />
+- <meta property="og:image:height" content="630" />
+- <meta property="og:type" content="website" />
+- <meta property="og:site_name" content="Your Website Name" />
+
+- <meta property="article:published_time" content="YYYY-MM-DDTHH:MM:SSZ" />
+- <meta property="article:author" content="Author Name" />
