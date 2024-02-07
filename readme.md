@@ -97,3 +97,37 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 - <meta property="article:published_time" content="YYYY-MM-DDTHH:MM:SSZ" />
 - <meta property="article:author" content="Author Name" />
+
+Description ✍
+
+This is a quirky little HTML document showcasing the usage of Bootstrap for creating a website layout. It's a mix of serious code and a sprinkle of humor 😊
+
+- live URL: https://gionare.github.io/landingpage-boot-straps/
+
+- Github: https://github.com/gionare/landingpage-boot-straps
+
+What's Inside? 📖
+
+- HTML: The backbone of the document, where all the structure is defined.
+
+- CSS: A tad bit of styling to make things look presentable.
+
+- Bootstrap: For making web development a lot less painful and a lot more fun.
+
+- Lorem Ipsum: For providing filler text when creativity decides to take a break, timeless placeholder for the text or maybe just trying to make small talk with a robot at a party." 🤖🎉
+
+Features 📀
+
+- Responsive Design: It can dance to the tune of any screen size!
+
+- Form Inputs: Let's you type in your deepest secrets (well, almost).
+
+- File Upload: Because sometimes you just need to upload your cat pictures.
+
+- Radio Buttons: For those moments when you need to make tough decisions like pizza or tacos. 🍕 🌮
+
+Disclaimer
+
+No cats were harmed in the making of this document.
+
+However, a considerable amount of music where listened. 🎧
