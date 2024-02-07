@@ -2,7 +2,7 @@
 
 - This repository contains a landing page built using Bootstrap, showcasing various features and components of the Bootstrap framework.
 
-<img src="./assets/responsive-mobile.png">
+<img src="./assets/responsive-mobile.png" alt="image preview" width="500px" >
 
 # Features and Technologies Used
 
