@@ -2,7 +2,7 @@
 
 - This repository contains a landing page built using Bootstrap, showcasing various features and components of the Bootstrap framework.
 
-<img src="./assets/responsive-mobile.png" alt="image preview" width="500px" >
+<img src="./assets/responsive-mobile.png" alt="image preview" width="500px">
 
 # Features and Technologies Used
 
@@ -23,7 +23,7 @@ To view the landing page locally:
 - Clone this repository to your local machine.
 - Open the index.html file in your web browser.
 
-<img src="./assets/responsive.png">
+<img src="./assets/responsive.png" alt="image preview" width="600px">
 
 # Repository Structure
 
